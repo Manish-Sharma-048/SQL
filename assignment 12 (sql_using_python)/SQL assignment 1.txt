@@ -1,0 +1,82 @@
+Ans 1 -->
++------------+----------+----------------+----------+
+| name       | city     | cust_name      | city     |
++------------+----------+----------------+----------+
+| James Hoog | New York | Nick Rimando   | New York |
+| James Hoog | New York | Brad Davis     | New York |
+| Pit Alex   | London   | Julian Green   | London   |
+| Mc Lyon    | Paris    | Fabian Johnson | Paris    |
+| Nail Knite | Paris    | Fabian Johnson | Paris    |
+| Pit Alex   | London   | Brad Gunzan    | London   |
++------------+----------+----------------+----------+
+
+Ans 2 -->
++--------+-----------+----------------+------------+
+| ord_no | purch_amt | cust_name      | city       |
++--------+-----------+----------------+------------+
+|  70007 |     948.5 | Graham Zusi    | California |
+|  70010 |   1983.43 | Fabian Johnson | Paris      |
++--------+-----------+----------------+------------+
+
+Ans 3 -->
++------------+----------------+
+| name       | cust_name      |
++------------+----------------+
+| James Hoog | Nick Rimando   |
+| James Hoog | Brad Davis     |
+| Nail Knite | Graham Zusi    |
+| Nail Knite | Julian Green   |
+| Mc Lyon    | Fabian Johnson |
+| Lauson Hen | Geoff Cameron  |
+| Paul Adam  | Jozy Altidor   |
+| Pit Alex   | Brad Gunzan    |
++------------+----------------+
+
+Ans 4 -->
++----------------+------------+------------+
+| cust_name      | name       | commission |
++----------------+------------+------------+
+| Nick Rimando   | James Hoog |       0.15 |
+| Brad Davis     | James Hoog |       0.15 |
+| Graham Zusi    | Nail Knite |       0.13 |
+| Julian Green   | Nail Knite |       0.13 |
+| Fabian Johnson | Mc Lyon    |       0.14 |
+| Jozy Altidor   | Paul Adam  |       0.13 |
++----------------+------------+------------+
+
+Ans 5 -->
++--------------+------------+------------+--------+------------+
+| cust_name    | c_city     | name       | s_city | commission |
++--------------+------------+------------+--------+------------+
+| Graham Zusi  | California | Nail Knite | Paris  |       0.13 |
+| Julian Green | London     | Nail Knite | Paris  |       0.13 |
+| Jozy Altidor | Moscow     | Paul Adam  | Rome   |       0.13 |
++--------------+------------+------------+--------+------------+
+
+Ans 6 -->
++----------------+------------+
+| cust_name      | name       |
++----------------+------------+
+| Brad Davis     | James Hoog |
+| Brad Gunzan    | Pit Alex   |
+| Fabian Johnson | Mc Lyon    |
+| Geoff Cameron  | Lauson Hen |
+| Graham Zusi    | Nail Knite |
+| Jozy Altidor   | Paul Adam  |
+| Julian Green   | Nail Knite |
+| Nick Rimando   | James Hoog |
++----------------+------------+
+
+Ans 7 -->
++------------+----------------+
+| sale_name  | cust_name      |
++------------+----------------+
+| James Hoog | Nick Rimando   |
+| James Hoog | Brad Davis     |
+| Lauson Hen | Geoff Cameron  |
+| Mc Lyon    | Fabian Johnson |
+| Nail Knite | Graham Zusi    |
+| Nail Knite | Julian Green   |
+| Paul Adam  | Jozy Altidor   |
+| Pit Alex   | Brad Gunzan    |
++------------+----------------+

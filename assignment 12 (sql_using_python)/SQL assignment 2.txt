@@ -1,0 +1,131 @@
+Ans 1 -->
++-------------+------------+----------+------------+
+| salesman_id | name       | city     | commission |
++-------------+------------+----------+------------+
+|        5001 | James Hoog | New York |       0.15 |
+|        5002 | Nail Knite | Paris    |       0.13 |
+|        5005 | Pit Alex   | London   |       0.11 |
+|        5006 | Mc Lyon    | Paris    |       0.14 |
+|        5007 | Paul Adam  | Rome     |       0.13 |
+|        5003 | Lauson Hen | San Jose |       0.12 |
++-------------+------------+----------+------------+
+
+Ans 2 -->
++------------+------------+
+| name       | commission |
++------------+------------+
+| James Hoog |       0.15 |
+| Nail Knite |       0.13 |
+| Pit Alex   |       0.11 |
+| Mc Lyon    |       0.14 |
+| Paul Adam  |       0.13 |
+| Lauson Hen |       0.12 |
++------------+------------+
+
+Ans 3 -->
++-------------+------------+----------+------------+
+| salesman_id | name       | city     | commission |
++-------------+------------+----------+------------+
+|        5005 | Pit Alex   | London   |       0.11 |
+|        5003 | Lauson Hen | San Jose |       0.12 |
+|        5002 | Nail Knite | Paris    |       0.13 |
+|        5007 | Paul Adam  | Rome     |       0.13 |
+|        5006 | Mc Lyon    | Paris    |       0.14 |
+|        5001 | James Hoog | New York |       0.15 |
++-------------+------------+----------+------------+
+
+Ans 4 -->
++------------+-------+
+| name       | city  |
++------------+-------+
+| Nail Knite | Paris |
+| Mc Lyon    | Paris |
++------------+-------+
+
+Ans 5 -->
++-------------+--------------+------------+-------+-------------+
+| customer_id | cust_name    | city       | grade | salesman_id |
++-------------+--------------+------------+-------+-------------+
+|        3007 | Brad Davis   | New York   |   200 |        5001 |
+|        3005 | Graham Zusi  | California |   200 |        5002 |
+|        3003 | Jozy Altidor | Moscow     |   200 |        5007 |
++-------------+--------------+------------+-------+-------------+
+
+Ans 6 -->
++------------------+-----------+
+| PRO_NAME         | PRO_PRICE |
++------------------+-----------+
+| Key Board        |       450 |
+| ZIP drive        |       250 |
+| Speaker          |       550 |
+| Refill carteidge |       350 |
+| Mouse            |       250 |
++------------------+-----------+
+
+Ans 7 -->
++----------------+
+| avg(PRO_PRICE) |
++----------------+
+|      1435.0000 |
++----------------+
+
+Ans 8 -->
++------------------+-----------+
+| PRO_NAME         | PRO_PRICE |
++------------------+-----------+
+| Mother Board     |      3200 |
+| Key Board        |       450 |
+| ZIP drive        |       250 |
+| Speaker          |       550 |
+| Monitor          |      5000 |
+| DVD drive        |       900 |
+| CD drive         |       800 |
+| Printer          |      2600 |
+| Refill carteidge |       350 |
+| Mouse            |       250 |
++------------------+-----------+
+
+Ans 9 -->
++------------------+-----------+
+| PRO_NAME         | PRO_PRICE |
++------------------+-----------+
+| ZIP drive        |       250 |
+| Mouse            |       250 |
+| Refill carteidge |       350 |
+| Key Board        |       450 |
+| Speaker          |       550 |
+| CD drive         |       800 |
+| DVD drive        |       900 |
+| Printer          |      2600 |
+| Mother Board     |      3200 |
+| Monitor          |      5000 |
++------------------+-----------+
+
+Ans 10 -->
++-----------+
+| EMP_LNAME |
++-----------+
+| Robbins   |
+| Snares    |
+| Dosio     |
+| Dosni     |
+| Emily     |
+| Sitaraman |
+| Gabriel   |
+| Manuel    |
+| Mardy     |
+| Saule     |
+| Snappy    |
+| Foster    |
++-----------+
+
+Ans 11 -->
++----------+-----------+-----------+----------+
+| EMP_IDNO | EMP_FNAME | EMP_LNAME | EMP_DEPT |
++----------+-----------+-----------+----------+
+|   127323 | Michale   | Robbins   |       57 |
+|   843795 | Enric     | Dosio     |       57 |
+|   847674 | Kuleswar  | Sitaraman |       57 |
+|   555935 | Alex      | Manuel    |       57 |
+|   839139 | Maria     | Foster    |       57 |
++----------+-----------+-----------+----------+
